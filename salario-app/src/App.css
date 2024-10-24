@@ -1,0 +1,38 @@
+.app-container {
+  margin: 20px;
+  padding: 20px;
+}
+
+.grid-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  flex-basis: 45%;
+}
+
+.input-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.checkbox-section {
+  margin-bottom: 20px;
+}
+
+.result-section {
+  margin-top: 20px;
+}
+
+p-button-info {
+  background-color: #007ad9;
+  border-color: #007ad9;
+  color: white;
+}
+
+h4 {
+  margin-bottom: 10px;
+}
